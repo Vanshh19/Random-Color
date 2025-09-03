@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: grey;
+
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    margin: auto;
+}
+
+#button{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(88, 87, 140);
+    border-radius: 10px;
+    margin: 50px;
+    border: 1px solid black;
+}
+
+#heading{
+    color: black;
+    padding-top:40px;
+}
